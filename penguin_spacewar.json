@@ -2,11 +2,11 @@
     "response": [
         {
             "timestamp": "1725850380",
-            "filename": "PenguinOS-unity-phone1-20240910-0748.zip",
-            "id": "4baa30e9bc995b472458f22e3a0cf17735213611a6f12245b33434cb25c4d81b",
-            "size": "2058452895",
-            "url": "https://index.g4ruda.live/0:/PenguinOS-unity-phone1-20240910-0748.zip",
-            "version": "OTA testing only"
+            "filename": "PenguinOS-unity-phone1-20240910-1257.zip",
+            "id": "4a9a29acbb73473bf98557dd27c9f31d5f1863d70383b059e25c9b9d8c4d7a07",
+            "size": "2058454731",
+            "url": "https://index.g4ruda.live/0:/PenguinOS-unity-phone1-20240910-1257.zip",
+            "version": "OTA TESTING AGAIN"
         }
     ]
 }
