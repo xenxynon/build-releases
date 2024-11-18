@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "timestamp": "1726636156",
-            "filename": "PenguinOS-unity-phone1-20240918-0507.zip",
-            "id": "f6a5aa89922a6570abe2082d3038e4bb69fe3b0e123de8594b85d0c0e3783394",
-            "size": "2054559084",
-            "url": "https://github.com/xenxynon/build-releases/releases/download/penguin-v1.2.1/PenguinOS-unity-phone1-20240918-0507.zip",
-            "version": "Final"
+            "timestamp": "1731933392",
+            "filename": "PenguinOS-unity-phone1-20241118-1236.zip",
+            "id": "2b30e72d6894d1255547efb7f017d7981702717f02a242e40d6e0e2f1ae218ea",
+            "size": "1999173703",
+            "url": "https://index.g4ruda.live/0:/PenguinOS-unity-phone1-20241118-1236.zip",
+            "version": "unity"
         }
     ]
 }
