@@ -5,6 +5,10 @@
  - Explicitly enable ThinLTO and whole
  - Don't include tasks from tests, platform_testing & additional debug information by default
  - Fix keymaster log cat spam due to missing vendor spl property
- - Merge latest ACK android11-5.4 of & msm-5.4 into kernel 
+ - Fix broken download ETA/progress in updater
+ - Add /mnt/scratch detection during OTA
+ - Fix changelog url in updater
+ - Merge latest ACK android11-5.4 branch & msm-5.4 tag into kernel 
  - Merge tag LA.UM.9.14.r1-25000.02-LAHAINA.QSSI14.0 in kernel drivers (teckpack/fw-api/qcald/wifi)
- - Misc dex optimizations
+ - Add dex2oat optimizations
+ - Minor translation updates
