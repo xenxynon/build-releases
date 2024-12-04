@@ -1,7 +1,4 @@
-***The rom includes dex2oat configuration and will definitely lag post OTA for some mins, so don't behave like ramdi ploxx***
-
-
-========   Tue, 03 Dec 2024  ========
+========   Wed, 04 Dec 2024  ========
 
  - Update system to LA.QSSI.14.0.r1-18600-qssi.0
  - Enable -O3 optimization in surfaceflinger and renderengine and globally
@@ -17,8 +14,10 @@
  - Add animations for some settings page
  - Remove some redundant overlays
  - Fonts: add samsung one, add AlbertSans, add OnePlus Slate, update inter to 4.1
+ - Fix post OTA lag 
  - Add support for NTFS
  - Disable phantom process monitoring
+ - Optimize the navigation bar home handle
  - Other miscellaneous changes
  - And yes includes pabji 120 fps spoof
 
