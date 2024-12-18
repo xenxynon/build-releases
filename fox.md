@@ -21,6 +21,7 @@
 
        `fastboot flash vendor_boot <path to image>`
    3. Reboot to recovery and flash the OrangeFox recovery zip
+   
         ...that's it!
 
  - How to use recovery to flash ROMs
