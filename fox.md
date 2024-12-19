@@ -43,11 +43,10 @@
    3. Screenshot
    4. Logging
    5. MTP/pendrive mount
-
+   6. Flashing magisk
 
  - Things not tested till now
-   1. Flashing magisk
-   2. Flashing recovery flashable zips
-   3. ADB sideload
+   1. Flashing recovery flashable zips
+   2. ADB sideload
 
    At the time of writing this the following has been tested by myself...
