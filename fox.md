@@ -31,7 +31,7 @@
    2. Flash your ROM
   
 
-   3. Flash the zip in after flashing ROM
+   3. Flash the recovery zip in after flashing ROM
 
    4. Format data (if clean flashing)
 
