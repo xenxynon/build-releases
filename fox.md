@@ -37,6 +37,7 @@
 
  - Things tested till now
    1. Flashing AOSPA/PenguinOS in recovery
+   2. Flashing custom kernel zip
 
  - What is working 
    1. Charging
