@@ -19,6 +19,9 @@
 
        `fastboot flash vendor_boot <path to image>`
    3. Reboot to recovery and flash the OrangeFox recovery zip
+ 
+   4. If you had screen lock, enter the pin/password you used in the ROM
+  
    
         ...that's it!
 
