@@ -1,8 +1,6 @@
 # !! Do not flash this recovery in stock NothingOS !!
 
-
-***At the time of writing this the following has been tested by myself***
-
+***NOTE***: This recovery is for custom ROMs that support recovery as vendor_boot only
 
  ## Things to do beforehand
 
@@ -51,3 +49,5 @@
    1. Flashing magisk
    2. Flashing recovery flashable zips
    3. ADB sideload
+
+   At the time of writing this the following has been tested by myself...
