@@ -42,14 +42,8 @@
  - Things tested till now
    1. Flashing AOSPA/PenguinOS in recovery
    2. Flashing custom kernel zip
-
- - What is working 
-   1. Charging
-   2. Decryption
-   3. Screenshot
-   4. Logging
-   5. MTP/pendrive mount
-   6. Flashing magisk
+   3. Flashing magisk
+   4. MTP/pendrive mount
 
  - Things not tested till now
    1. Flashing recovery flashable zips
