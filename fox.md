@@ -29,7 +29,7 @@
 
         ...that's it!
 
-    Alternatively if your custom ROM recovery has disabled signature check, simply sideload the recovery using adb sideload
+   5.  Alternatively if your custom ROM recovery has disabled signature check, simply sideload the recovery using adb sideload
 
 ### How to use recovery to flash ROMs
 
