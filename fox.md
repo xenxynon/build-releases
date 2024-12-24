@@ -1,8 +1,14 @@
 # !! Do not flash this recovery in stock NothingOS !!
 
-***NOTE***: This recovery is for custom ROMs that support recovery as vendor_boot only
+**NOTE**: This recovery is for custom ROMs that support recovery as vendor_boot only
 
-***Depending on ROM, the recovery may or may not work, so please understand that once you flash the recovery and it does not work then ping me in telegram chat with your ROM name.***
+***It is guaranteed to work with my builds/ROMS***
+
+
+***Depending on ROM, the recovery may or may not work***
+
+***Understand that once you flash the recovery and it does not work then it's a ROM issue.
+Ping me in telegram chat with your ROM name and logs and I'll try to fix it.***
 
 ### Things to do beforehand
   - If you're using Maitreya's recovery, reflash your original boot image from the ROM
