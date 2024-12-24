@@ -2,6 +2,8 @@
 
 ***NOTE***: This recovery is for custom ROMs that support recovery as vendor_boot only
 
+***Depending on ROM, the recovery may or may not work, so please understand that once you flash the recovery and it does not work then ping me in telegram chat with your ROM name.***
+
 ### Things to do beforehand
   - If you're using Maitreya's recovery, reflash your original boot image from the ROM
   - Download and keep the recovery zip in your device/pendrive
